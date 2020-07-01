@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bus Tracking System</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="title_activity_maps3">Map</string>
+    <string name="title_activity_drivers_google_maps">Map</string>
+    <string name="title_activity_maps4">Map</string>
+    <string name="share">share</string>
+    <string name="Logout" />
+    <string name="title_activity_maps5">Map</string>
+    <string name="stop_sharing">Stop Sharing</string>
+</resources>
